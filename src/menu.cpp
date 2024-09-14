@@ -1,6 +1,6 @@
-#include "gui.hpp"
+#include <nucc/xfbin.hpp>
 
-#include <xfbin.h>
+#include "gui.hpp"
 
 static bool isTextShown = false;
 

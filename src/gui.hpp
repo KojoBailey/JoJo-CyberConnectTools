@@ -21,7 +21,7 @@ private:
 class App : public wxApp {
 public:
     bool OnInit() override {
-        MainFrame* mainFrame = new MainFrame{"JoJo CC2 Toolbox"};
+        MainFrame* mainFrame = new MainFrame{"JoJo CyberConnectTools"};
         mainFrame->SetClientSize(800, 600);
         mainFrame->Center();
         mainFrame->Show();
