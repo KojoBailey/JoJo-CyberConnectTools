@@ -1,0 +1,3 @@
+[submodule "external/xfbin"]
+	path = external/xfbin
+	url = https://github.com/KojoBailey/nucc-cpp-library
